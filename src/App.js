@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ysnInfDev
+          <h1>Bravo</h1>
+          <h2>ysnInfDev</h2>
         </a>
       </header>
     </div>
